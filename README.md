@@ -8,6 +8,7 @@ https://dl.acm.org/doi/pdf/10.1145/258549.258715
 https://www.cs.umd.edu/users/ben/papers/Shneiderman1983Direct.pdf
 
 **Here is the slide for TA 2**
+
 Paper:
 1. What is Human-Centered about Human-Centered AI? A Map of the Research Landscape
 https://github.com/artemiszheng/FundmentalHCI12025/blob/a8763853ca55f8ba60c77bf77ef3797c53d7566e/What%20is%20Human-Centered%20about%20Human-Centered%20AI.pdf
