@@ -14,3 +14,8 @@
 - **Slides**: [Google Slides](https://docs.google.com/presentation/d/1qF3_jBGtWo01zV-CAMY9CV_5M71y7hp2/edit?usp=sharing&ouid=103386161610405023986&rtpof=true&sd=true) 
 - **Paper**:  
   1. [What is Human-Centered about Human-Centered AI? A Map of the Research Landscape](https://github.com/artemiszheng/FundmentalHCI12025/blob/a8763853ca55f8ba60c77bf77ef3797c53d7566e/What%20is%20Human-Centered%20about%20Human-Centered%20AI.pdf)  
+
+---
+
+## TA 3  
+- **Slides**:
