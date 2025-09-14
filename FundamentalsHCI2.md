@@ -10,3 +10,5 @@
 
 ## TA 2  
 - **Slides**:
+
+- **Analysis of scrolling**: 
