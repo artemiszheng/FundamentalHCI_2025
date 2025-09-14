@@ -12,4 +12,4 @@
 - **Slides**:
 
 - **Assignment requirements**:
-  1. 
+  1. [https://github.com/artemiszheng/FundamentalHCI_2025/blob/9884e4c71d358aa2566040c6b3001473f5f48946/Analysis%20of%20scrolling%20%20.pdf]
