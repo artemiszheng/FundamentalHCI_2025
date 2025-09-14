@@ -11,4 +11,5 @@
 ## TA 2  
 - **Slides**:
 
-- **Analysis of scrolling**: 
+- **Assignment requirements**:
+  1. 
