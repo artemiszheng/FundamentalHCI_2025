@@ -18,4 +18,12 @@
 ---
 
 ## TA 3  
-- **Slides**:
+- **Slides**: Google Slides
+- **Papers**:
+- 1.[Mitigating the Attraction Effect with Visualizations](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/Mitigating%20the%20Attraction%20Effect%20with%20Visualizations.pdf)
+- 2.[Priming and Anchoring Effects in Visualization.](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/Priming%20and%20Anchoring%20Effects%20in%20Visualization.pdf)
+- 3.[Look! It’s a Computer Program! It’s an Algorithm! It’s AI!”: Does Terminology Afect Human Perceptions and Evaluations of Algorithmic Decision-Making Systems? ](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/Look!%20It%E2%80%99s%20a%20Computer%20Program!%20It%E2%80%99s%20an%20Algorithm!%20It%E2%80%99s%20AI!.pdf)
+- 4.[How Cognitive Biases Affect XAI-assisted Decision-making](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/How%20Cognitive%20Biases%20Affect%20XAI-assisted%20Decision-making_rvwd.pdf)
+- 5.[Diagnosing bias in the gender representation of HCI research participants.](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/Diagnosing%20bias%20in%20the%20gender%20representation%20of%20HCI%20research%20participants.pdf)
+- 6.[Typing Efficiency and Suggestion Accuracy Influence the Benefits and Adoption of Word Suggestions.
+](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/Typing_Efficiency_and_Suggestion_Accuracy_Influence_Benefits_and_Adoption_of_Word_Suggestions.pdf)
