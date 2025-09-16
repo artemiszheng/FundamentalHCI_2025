@@ -18,7 +18,7 @@
 ---
 
 ## TA 3  
-- **Slides**: Google Slides
+- **Slides**: [Google Slides](https://docs.google.com/presentation/d/1Rmg2DVjrFAea0SCkgzCmchLbBAsrb1MV/edit?usp=sharing&ouid=107603787338411812843&rtpof=true&sd=true)
 - **Papers**:  
   1. [Mitigating the Attraction Effect with Visualizations](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/Mitigating%20the%20Attraction%20Effect%20with%20Visualizations.pdf)  
   2. [Priming and Anchoring Effects in Visualization](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/Priming%20and%20Anchoring%20Effects%20in%20Visualization.pdf)  
