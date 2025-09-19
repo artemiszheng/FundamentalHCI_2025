@@ -9,6 +9,6 @@
   ---
 
 ## TA 2  
-- **Slides**:
+- **Slides**: [Google Slides](https://docs.google.com/presentation/d/1y0XdyAxvFeBllFaySrSLy-Y0_8UWXW8O/edit?usp=sharing&ouid=103386161610405023986&rtpof=true&sd=true)
 
 - [**Assignment requirements**](https://github.com/artemiszheng/FundamentalHCI_2025/blob/9884e4c71d358aa2566040c6b3001473f5f48946/Analysis%20of%20scrolling%20%20.pdf)
