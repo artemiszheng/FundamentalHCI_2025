@@ -20,5 +20,5 @@
 - **Slides**: [Google Slides](https://docs.google.com/presentation/d/19GgmEsCGBZ_pr_ph7KR1omfE873WI365/edit?usp=sharing&ouid=107603787338411812843&rtpof=true&sd=true)
 
 - [**Assignment VA**](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/VA%20-%20Designing%20a%20WIMP%20Text%20Editor.pdf)
-- [**Assigment VB**](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/VB%20-%20Redesigning%20a%20CAPTCHA%20as%20a%20WIMP%20Interface.pdf)
+- [**Assignment VB**](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/VB%20-%20Redesigning%20a%20CAPTCHA%20as%20a%20WIMP%20Interface.pdf)
 - (Check the slides for more details).
