@@ -22,3 +22,9 @@
 - [**Assignment VA**](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/VA%20-%20Designing%20a%20WIMP%20Text%20Editor.pdf)
 - [**Assignment VB**](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/VB%20-%20Redesigning%20a%20CAPTCHA%20as%20a%20WIMP%20Interface.pdf)
 - (Check the slides for more details).
+
+---
+## TA 4
+- **Slides**: [Google Slides](https://docs.google.com/presentation/d/1KJetqILU1y8SOlqp9VhezXquyvL1KV-6/edit?usp=sharing&ouid=107603787338411812843&rtpof=true&sd=true)
+- [DO IT: The Design of Interactive Things](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/DOIT-CHI23-Preview-Web.pdf)
+- [Story Interview Handout](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/story-interview.handout.pdf)
