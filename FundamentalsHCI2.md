@@ -28,3 +28,12 @@
 - **Slides**: [Google Slides](https://docs.google.com/presentation/d/1KJetqILU1y8SOlqp9VhezXquyvL1KV-6/edit?usp=sharing&ouid=107603787338411812843&rtpof=true&sd=true)
 - [DO IT: The Design of Interactive Things](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/DOIT-CHI23-Preview-Web.pdf)
 - [Story Interview Handout](https://github.com/artemiszheng/FundamentalHCI_2025/blob/main/story-interview.handout.pdf)
+
+---
+
+# Grades
+- You can find the grades for **Fundamentals of HCI 2** at the [link provided](https://docs.google.com/spreadsheets/d/1ZVfvVQCtEs_DU2lgL4M9HL8M660HuxD5O9YcedSYaeU/edit?usp=sharing). The Google Sheet contains multiple pages, one for each assignment. To check your grade, look for the number that was sent to you via email.
+- **These grades do not represent your final grade**, nor can it be directly inferred from them. We value **progression and improvement throughout the course more than individual performance**. This means your final grade may be **higher or lower than the average of these grades**.
+- To maintain a **constructive** and **fair environment**, errors have been grouped into common categories. Grades have also been **rescaled** to match the overall class behavior and ensure equity. If some assignment pages are still missing, it means a few students have **not yet delivered earlier assignments**.
+
+This behavior will **no longer be tolerated**, as it affects the entire class’s progress.
