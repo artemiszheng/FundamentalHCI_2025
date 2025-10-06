@@ -45,3 +45,12 @@
 - To maintain a **constructive** and **fair environment**, errors have been grouped into common categories. Grades have also been **rescaled** to match the overall class behavior and ensure equity. If some assignment pages are still missing, it means a few students have **not yet delivered earlier assignments**.
 
 This behavior will **no longer be tolerated**, as it affects the entire class’s progress.
+
+
+## General clarification regarding TA1 assignment grading
+
+We have received several messages concerning assignment deadlines and their impact on grading. To clarify: in this case, late submissions **DO NOT** reduce the grade. They are simply marked as late to indicate that the student joined or delivered after the original deadline.
+
+However, it is important to acknowledge that students who submitted later often had additional time to complete their work and, in some cases, benefited from class discussions where common errors or partial solutions were already presented. While this does not affect the grade itself, it is considered when assessing each student’s learning progression. On the other hand, completing multiple assignments within one week is naturally more demanding than completing them across several weeks, and this difference is part of what we evaluate when looking at overall progress.
+
+We believe this approach ensures fairness across the class and consistency in the evaluation process.
