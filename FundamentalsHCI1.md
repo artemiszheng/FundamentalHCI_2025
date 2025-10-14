@@ -39,6 +39,12 @@
 
 ---
 
+
+## TA 6  
+- **Slides**: [Google Slides](https://docs.google.com/presentation/d/10nIaEaI9Wsd9IcXJJxrOiMTHLz1wVVom/edit?usp=sharing&ouid=103386161610405023986&rtpof=true&sd=true)
+
+---
+
 # Grades
 - You can find the grades for **Fundamentals of HCI 1** at the [link provided](https://docs.google.com/spreadsheets/d/1swsp8daLfsByYTtTFO22h3XwjVKRsuVEj4VsBFWVtIU/edit?usp=sharing). The Google Sheet contains multiple pages, one for each assignment. To check your grade, look for the number that was sent to you via email.
 - **These grades do not represent your final grade**, nor can it be directly inferred from them. We value **progression and improvement throughout the course more than individual performance**. This means your final grade may be **higher or lower than the average of these grades**.
