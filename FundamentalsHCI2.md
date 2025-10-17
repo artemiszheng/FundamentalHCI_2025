@@ -31,6 +31,13 @@
 
 ---
 
+---
+## TA 5
+- **Slides**: [Google Slides](https://docs.google.com/presentation/d/1NPNjkt037ScTDK0lgK_OI9CsitNZA89B/edit?usp=sharing&ouid=103386161610405023986&rtpof=true&sd=true)
+
+---
+
+
 # Grades
 - You can find the grades for **Fundamentals of HCI 2** at the [link provided](https://docs.google.com/spreadsheets/d/1ZVfvVQCtEs_DU2lgL4M9HL8M660HuxD5O9YcedSYaeU/edit?usp=sharing). The Google Sheet contains multiple pages, one for each assignment. To check your grade, look for the number that was sent to you via email.
 - **These grades do not represent your final grade**, nor can it be directly inferred from them. We value **progression and improvement throughout the course more than individual performance**. This means your final grade may be **higher or lower than the average of these grades**.
