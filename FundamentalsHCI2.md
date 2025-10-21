@@ -37,16 +37,16 @@
 
 ---
 ## TA 6
-- **Zoom link**: Artemis ZHENG is inviting you to a scheduled Zoom meeting.
+- **Zoom link**: Presentation for fundamental HCI2
 
-Topic: Presentation for fundamental HCI2
 Time: Oct 24, 2025 02:55 PM Paris
+
 Join Zoom Meeting
 https://universite-paris-saclay-fr.zoom.us/j/94357567262?pwd=8FYWWyaGocIL4Xg0RanyA0EWCx45Pq.1
 
 Meeting ID: 943 5756 7262
-Passcode: 537353
 
+Passcode: 537353
 
 ---
 
