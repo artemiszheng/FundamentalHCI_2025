@@ -36,7 +36,19 @@
 - **Slides**: [Google Slides](https://docs.google.com/presentation/d/1NPNjkt037ScTDK0lgK_OI9CsitNZA89B/edit?usp=sharing&ouid=103386161610405023986&rtpof=true&sd=true)
 
 ---
+## TA 6
+- **Zoom link**: Artemis ZHENG is inviting you to a scheduled Zoom meeting.
 
+Topic: Presentation for fundamental HCI2
+Time: Oct 24, 2025 02:55 PM Paris
+Join Zoom Meeting
+https://universite-paris-saclay-fr.zoom.us/j/94357567262?pwd=8FYWWyaGocIL4Xg0RanyA0EWCx45Pq.1
+
+Meeting ID: 943 5756 7262
+Passcode: 537353
+
+
+---
 
 # Grades
 - You can find the grades for **Fundamentals of HCI 2** at the [link provided](https://docs.google.com/spreadsheets/d/1ZVfvVQCtEs_DU2lgL4M9HL8M660HuxD5O9YcedSYaeU/edit?usp=sharing). The Google Sheet contains multiple pages, one for each assignment. To check your grade, look for the number that was sent to you via email.
