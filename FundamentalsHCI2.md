@@ -47,7 +47,15 @@ https://universite-paris-saclay-fr.zoom.us/j/94357567262?pwd=8FYWWyaGocIL4Xg0Ran
 Meeting ID: 943 5756 7262
 
 Passcode: 537353
-
+- **Order of presentation**:
+- 1. NASIROVA Nazrin, MARIS Clara, BASSAL Dimah, SHIRVANI Fatemeh, and LE MEUR Amélien
+  2. NGUYEN	Minh Duc, BHATT	Shubham, POMMERAY	Matthias, and OSUKE Sashida
+  3. ZHU Wenqi, YANG Xueqi, ZHANG	Yuanyuan, and NASIRI BAVIL Daniyal
+  4. VIJAYVARGIYA	Adarsh, GUPTE	Jay Saumil, AZHAR	Moizza
+  5. BROWDER Kenneth, RAMOS Leonor, LOTFI	Soheil, MALYCHEV Natacha, DZIEMIDZIONEK Eyrk, and KRZYSZTOF	Urban
+  6. MINODIER	Sidonie, MYOT	Victoria, BENOSMANE Lydia, XIA Alizee, and COSSARD Keryan
+  7. CHEN	I-Chieh, UISETIAWAN	Gleda, KANTE Maryatou, BOURGUIBA	Yousra, and HERMANN	Larissa
+  8. ZHANG Peiwen, ZHOU	Yiqian, WANG Yizheng, LIANG	Zeyu, and TANG Bill
 ---
 
 # Grades
