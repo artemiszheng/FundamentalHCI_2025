@@ -60,3 +60,8 @@ We have received several messages concerning assignment deadlines and their impa
 However, it is important to acknowledge that students who submitted later often had additional time to complete their work and, in some cases, benefited from class discussions where common errors or partial solutions were already presented. While this does not affect the grade itself, it is considered when assessing each student’s learning progression. On the other hand, completing multiple assignments within one week is naturally more demanding than completing them across several weeks, and this difference is part of what we evaluate when looking at overall progress.
 
 We believe this approach ensures fairness across the class and consistency in the evaluation process.
+
+
+## General clarification regarding TA3 assignment grading
+
+Although TA3 was a group assignment, the presentation included an individual component, where each member was expected to contribute by presenting, asking, or answering questions. All members started from a common base grade, but individual performance during the presentation **could positively impact** the **individual** grade.
