@@ -65,3 +65,11 @@ We believe this approach ensures fairness across the class and consistency in th
 ## General clarification regarding TA3 assignment grading
 
 Although TA3 was a group assignment, the presentation included an individual component, where each member was expected to contribute by presenting, asking, or answering questions. All members started from a common base grade, but individual performance during the presentation **could positively impact** the **individual** grade.
+
+## Final Grade
+You can now find your final grade for Fundamentals of HCI 1 in the document provided.
+This grade reflects your overall performance across the full set of assignments, your progression during the course, and the quality of your final work.
+
+The final grade was not computed as a simple average. Instead, we used a weighted average to reflect the increasing importance and complexity of the assignments. We chose these weights to emphasize the parts of the course that demanded deeper understanding, stronger design reasoning, and more comprehensive application of HCI principles.
+
+The weights used were: 10%, 10%, 5%, 15%, 10%, and 50%.
