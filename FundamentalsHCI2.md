@@ -64,3 +64,11 @@ Passcode: 537353
 - To maintain a **constructive** and **fair environment**, errors have been grouped into common categories. Grades have also been **rescaled** to match the overall class behavior and ensure equity. If some assignment pages are still missing, it means a few students have **not yet delivered earlier assignments** (or we are not done grading).
 
 This behavior will **no longer be tolerated**, as it affects the entire class’s progress.
+
+## Final Grade
+
+Your final grade for this course is now available in the document provided. This grade reflects your overall performance across all assignments, as well as your progression and the quality of your final submission.
+
+The final grade was not calculated as a simple average. Instead, we applied a weighted average to better reflect the growing complexity and expectations of the work throughout the course. This approach places more emphasis on the assignments that required deeper analysis, stronger design judgment, and more substantial engagement with the course material.
+
+The weights used were: 5%, 10%, 15%, 20%, and 50%.
